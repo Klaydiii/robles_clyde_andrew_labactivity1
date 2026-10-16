@@ -1,1 +1,7 @@
+def add(a, b):
+    return a + b
 
+print("Simple Calculator")
+print("Test Case 1: 5 + 3 =", add(5, 3))
+print("Test Case 2: 10 + 20 =", add(10, 20))
+print("Test Case 3: -5 + 8 =", add(-5, 8))
